@@ -1,2 +1,2 @@
-# CareConnect-Healthbot
-A healthcare chatbot which answers to the patients queries and also suggests the precautions . 
+# Medical_Chatbot
+An interactive chatbot made using langchain, FastAPI and deployed on Streamlit

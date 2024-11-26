@@ -1,0 +1,9 @@
+chainlit
+langchain-community
+langchain-huggingface
+torch
+faiss-cpu
+ctransformers>=0.2.4
+sentence-transformers
+pydantic         
+pypdf
